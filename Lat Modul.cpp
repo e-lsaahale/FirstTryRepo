@@ -50,6 +50,7 @@ int main(){
 	charges(area);
 	totalcost(area,price);
 	
+	printf("this line is the change that I made");
 	
 	return 0;
 }
